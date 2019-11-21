@@ -1,1 +1,5 @@
 creating a new branch is quick master line.
+<<<<<<< HEAD
+=======
+fix_bugs line..
+>>>>>>> fixbug_user
