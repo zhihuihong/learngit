@@ -1,4 +1,4 @@
 creating a new branch is quick master line.
 fix_bugs line..
-change from local
+change from remote again
 test commit multilines
